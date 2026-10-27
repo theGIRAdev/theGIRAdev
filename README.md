@@ -1,4 +1,18 @@
-## Hi there 👋
+🧭 Обо мне  Java Developer
+Пишу бэкенд на Java: от модели данных и репозиториев до REST-контроллеров. Люблю доводить учебный проект до состояния, когда он поднимается одной кнопкой, а каждый эндпоинт проверен руками в Postman.
+
+🎯 Фокус: Spring Boot, Spring Data JPA, PostgreSQL
+🌱 Изучаю: Hibernate, миграции схемы, тестирование
+🐍 Параллельно: Python и 1С
+🤝 Открыт к фидбеку по коду и учебным проектам
+
+🛠 Стек
+Языки	Java Python 1C
+Фреймворки	Spring Boot Spring Data JPA Hibernate
+Базы данных	PostgreSQL
+Инструменты	Maven Git Postman IntelliJ IDEA
+
+Проект готов не тогда, когда он компилируется, а тогда, когда на его запросы приходят правильные ответы.
 
 <!--
 **theGIRAdev/theGIRAdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

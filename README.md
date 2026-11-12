@@ -1,4 +1,4 @@
-<h1 align="center">Java Developer</h1>
+<h1 align="center"> Типо Developer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6DB33F&center=true&vCenter=true&width=560&lines=Spring+Boot+%2B+JPA+%2B+PostgreSQL;JUnit+5+%26+MockMvc;Backend+developer+in+progress" />
